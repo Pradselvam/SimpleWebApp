@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Flipkart Shopping Website</title>
+    <title>Amazon Shopping Website</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -30,7 +30,7 @@ header{
     width: 100%;
     display: flex;
     justify-content: space-between;
-    padding: 20px 50px;
+    padding: 35px 50px;
     align-items: center;
     position: fixed;
     z-index: 999;
@@ -39,7 +39,7 @@ header{
 #menu li{
     list-style: none;
     display: inline-block;
-    margin: 20px;
+    margin: 25px;
 }
 
 #menu li a{
@@ -50,7 +50,7 @@ header{
 
 section{
     width: 100%;
-    float: left;
+    float: right;
     height: 100vh;
     position: relative;
 }
@@ -103,10 +103,10 @@ h1{
 	 
 
     </section>    
-    <section id="about"><h1>This Is About</h1></section>
-    <section id="product"><h1>This Is Product</h1></section>
-    <section id="pricing"><h1>This Is Pricing</h1></section>
-    <section id="contact"><h1>This Is Contact</h1></section>
+    <section id="about"><h1>Soon will be updated</h1></section>
+    <section id="product"><h1>Yet to be updated</h1></section>
+    <section id="pricing"><h1>Yet to be updated</h1></section>
+    <section id="contact"><h1>7204791306</h1></section>
 
 </body>
 </html>
